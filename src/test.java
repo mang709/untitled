@@ -1,5 +1,5 @@
 public class test {
-    void test{
-        
+    void Test{
+
     }
 }
